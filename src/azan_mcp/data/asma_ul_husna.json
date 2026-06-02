@@ -1,0 +1,695 @@
+[
+  {
+    "number": 1,
+    "arabic": "الرحمن",
+    "transliteration": "Ar-Rahman",
+    "meaning": "The Most Gracious",
+    "explanation": "The name indicating Allah's all-encompassing mercy that extends to all of creation in this world. This mercy is vast and universal, covering believers and non-believers alike."
+  },
+  {
+    "number": 2,
+    "arabic": "الرحيم",
+    "transliteration": "Ar-Rahim",
+    "meaning": "The Most Merciful",
+    "explanation": "The name indicating Allah's special, specific mercy that is reserved for the believers in the Hereafter. It signifies a deep and lasting mercy for those who believe and do righteous deeds."
+  },
+  {
+    "number": 3,
+    "arabic": "الملك",
+    "transliteration": "Al-Malik",
+    "meaning": "The King/Sovereign",
+    "explanation": "The name indicating that Allah is the absolute King and Sovereign of all creation, owing His dominion to nothing and no one. He rules with complete authority over all that exists."
+  },
+  {
+    "number": 4,
+    "arabic": "القدوس",
+    "transliteration": "Al-Quddus",
+    "meaning": "The Most Holy/Pure",
+    "explanation": "The name indicating that Allah is absolutely pure and free from all deficiencies, faults, and imperfections. He is exalted and sanctified beyond any attribute that does not befit His majesty."
+  },
+  {
+    "number": 5,
+    "arabic": "السلام",
+    "transliteration": "As-Salam",
+    "meaning": "The Source of Peace",
+    "explanation": "The name indicating that Allah is the source of all peace and safety, free from all defects and harms. He grants peace to His creation and is Himself the embodiment of perfect wholeness."
+  },
+  {
+    "number": 6,
+    "arabic": "المؤمن",
+    "transliteration": "Al-Mu'min",
+    "meaning": "The Guardian of Faith",
+    "explanation": "The name indicating that Allah is the granter of security and faith, who affirms His own oneness and the truthfulness of His messengers. He protects His believing servants from fear and harm."
+  },
+  {
+    "number": 7,
+    "arabic": "المهيمن",
+    "transliteration": "Al-Muhaymin",
+    "meaning": "The Protector/Overseer",
+    "explanation": "The name indicating that Allah watches over and protects all of creation with perfect awareness and control. He is the guardian who oversees all affairs with complete dominion."
+  },
+  {
+    "number": 8,
+    "arabic": "العزيز",
+    "transliteration": "Al-Aziz",
+    "meaning": "The Almighty/Mighty",
+    "explanation": "The name indicating that Allah possesses absolute might and power that cannot be overcome or rivaled by anyone. He is invincible, self-sufficient, and all-prevailing in His strength."
+  },
+  {
+    "number": 9,
+    "arabic": "الجبار",
+    "transliteration": "Al-Jabbar",
+    "meaning": "The Compeller",
+    "explanation": "The name indicating that Allah compels and restores all things according to His will, and that nothing can resist His decree. He repairs the broken and forces matters to their completion."
+  },
+  {
+    "number": 10,
+    "arabic": "المتكبر",
+    "transliteration": "Al-Mutakabbir",
+    "meaning": "The Supreme",
+    "explanation": "The name indicating that Allah alone possesses true greatness and supreme majesty above all of creation. He is the only one rightfully described with pride and grandeur."
+  },
+  {
+    "number": 11,
+    "arabic": "الخالق",
+    "transliteration": "Al-Khaliq",
+    "meaning": "The Creator",
+    "explanation": "The name indicating that Allah is the Creator who brings all things into existence from nothing. He plans and measures His creation with perfect precision and wisdom."
+  },
+  {
+    "number": 12,
+    "arabic": "البارئ",
+    "transliteration": "Al-Bari'",
+    "meaning": "The Originator",
+    "explanation": "The name indicating that Allah brings created beings into existence distinctly and separately, giving each its unique form and characteristics. He is the one who fashions creation free from any model."
+  },
+  {
+    "number": 13,
+    "arabic": "المصور",
+    "transliteration": "Al-Musawwir",
+    "meaning": "The Fashioner of Forms",
+    "explanation": "The name indicating that Allah shapes and gives form to all things in creation, giving each creature its particular appearance and likeness. He is the divine artist who designs all forms."
+  },
+  {
+    "number": 14,
+    "arabic": "الغفار",
+    "transliteration": "Al-Ghaffar",
+    "meaning": "The Ever-Forgiving",
+    "explanation": "The name indicating that Allah repeatedly and continually forgives the sins of His servants who turn to Him in repentance. His forgiveness is vast and covers even the greatest of sins."
+  },
+  {
+    "number": 15,
+    "arabic": "القهار",
+    "transliteration": "Al-Qahhar",
+    "meaning": "The Subduer",
+    "explanation": "The name indicating that Allah overpowers and subdues all of creation, and that nothing can escape His dominance. He conquers all things with His complete and irresistible power."
+  },
+  {
+    "number": 16,
+    "arabic": "الوهاب",
+    "transliteration": "Al-Wahhab",
+    "meaning": "The Bestower",
+    "explanation": "The name indicating that Allah gives freely and generously without any expectation of return or recompense. He is the constant giver of gifts and blessings to all of creation."
+  },
+  {
+    "number": 17,
+    "arabic": "الرزاق",
+    "transliteration": "Ar-Razzaq",
+    "meaning": "The Provider",
+    "explanation": "The name indicating that Allah is the sustainer who provides and supplies all forms of provision to every creature. He ensures that every being receives what it needs for its sustenance."
+  },
+  {
+    "number": 18,
+    "arabic": "الفتاح",
+    "transliteration": "Al-Fattah",
+    "meaning": "The Opener",
+    "explanation": "The name indicating that Allah opens the gates of mercy, knowledge, and provision for His servants. He opens hearts to faith and resolves all matters that appear closed or difficult."
+  },
+  {
+    "number": 19,
+    "arabic": "العليم",
+    "transliteration": "Al-'Alim",
+    "meaning": "The All-Knowing",
+    "explanation": "The name indicating that Allah has perfect and complete knowledge of all things, seen and unseen, past, present, and future. Nothing in the entire universe escapes His knowledge."
+  },
+  {
+    "number": 20,
+    "arabic": "القابض",
+    "transliteration": "Al-Qabid",
+    "meaning": "The Withholder",
+    "explanation": "The name indicating that Allah withholds and constricts according to His divine wisdom and will. He holds back provision, life, and mercy as He deems appropriate for His creation."
+  },
+  {
+    "number": 21,
+    "arabic": "الباسط",
+    "transliteration": "Al-Basit",
+    "meaning": "The Extender",
+    "explanation": "The name indicating that Allah expands and extends provision, mercy, and blessings to whom He wills. He opens His hand in generosity to give abundantly to His servants."
+  },
+  {
+    "number": 22,
+    "arabic": "الخافض",
+    "transliteration": "Al-Khafid",
+    "meaning": "The Reducer",
+    "explanation": "The name indicating that Allah humbles and abases those who are arrogant and rebellious toward Him. He lowers the station of the unjust and brings down the tyrants."
+  },
+  {
+    "number": 23,
+    "arabic": "الرافع",
+    "transliteration": "Ar-Rafi'",
+    "meaning": "The Exalter",
+    "explanation": "The name indicating that Allah elevates and raises the station of those who are humble and obedient to Him. He honors the righteous believers and exalts them in this world and the next."
+  },
+  {
+    "number": 24,
+    "arabic": "المعز",
+    "transliteration": "Al-Mu'izz",
+    "meaning": "The Bestower of Honor",
+    "explanation": "The name indicating that Allah grants honor and dignity to whomever He wills among His creation. He is the source of all true honor and esteem."
+  },
+  {
+    "number": 25,
+    "arabic": "المذل",
+    "transliteration": "Al-Mudhil",
+    "meaning": "The Dishonorer",
+    "explanation": "The name indicating that Allah humiliates and disgraces whoever He wills, particularly those who oppose His truth. He strips honor from the arrogant and the disbelievers."
+  },
+  {
+    "number": 26,
+    "arabic": "السميع",
+    "transliteration": "As-Sami'",
+    "meaning": "The All-Hearing",
+    "explanation": "The name indicating that Allah hears all sounds and voices, no matter how quiet or distant they may be. He hears the spoken word, the whisper, and the innermost thought."
+  },
+  {
+    "number": 27,
+    "arabic": "البصير",
+    "transliteration": "Al-Basir",
+    "meaning": "The All-Seeing",
+    "explanation": "The name indicating that Allah sees all things with perfect clarity and no limits. He perceives the smallest details of all creation, including what is hidden in darkness."
+  },
+  {
+    "number": 28,
+    "arabic": "الحكم",
+    "transliteration": "Al-Hakam",
+    "meaning": "The Judge",
+    "explanation": "The name indicating that Allah is the ultimate judge and arbiter of all affairs and disputes. His judgment is final, perfectly just, and cannot be reversed or overturned."
+  },
+  {
+    "number": 29,
+    "arabic": "العدل",
+    "transliteration": "Al-'Adl",
+    "meaning": "The Just",
+    "explanation": "The name indicating that Allah is perfectly just in all His decrees and actions, never wronging anyone in the slightest. He is the embodiment of absolute equity and fairness."
+  },
+  {
+    "number": 30,
+    "arabic": "اللطيف",
+    "transliteration": "Al-Latif",
+    "meaning": "The Subtle/Gentle",
+    "explanation": "The name indicating that Allah is kind and gentle to His servants, aware of the finest details of their affairs. He reaches them with His grace in ways they may not even perceive."
+  },
+  {
+    "number": 31,
+    "arabic": "الخبير",
+    "transliteration": "Al-Khabir",
+    "meaning": "The All-Aware",
+    "explanation": "The name indicating that Allah has profound and complete awareness of all inner realities and hidden matters. He is fully informed of what was, what is, and what will be."
+  },
+  {
+    "number": 32,
+    "arabic": "الحليم",
+    "transliteration": "Al-Halim",
+    "meaning": "The Forbearing",
+    "explanation": "The name indicating that Allah is forbearing and does not hasten to punish those who sin or transgress. He grants His servants time to repent and does not act in haste."
+  },
+  {
+    "number": 33,
+    "arabic": "العظيم",
+    "transliteration": "Al-'Azim",
+    "meaning": "The Magnificent",
+    "explanation": "The name indicating that Allah is supremely magnificent and great in His being, attributes, and actions. His greatness is beyond the capacity of human minds to fully comprehend."
+  },
+  {
+    "number": 34,
+    "arabic": "الغفور",
+    "transliteration": "Al-Ghafur",
+    "meaning": "The Forgiving",
+    "explanation": "The name indicating that Allah is most forgiving and covers the sins of His servants who repent and seek His pardon. His forgiveness is abundant and available to all who sincerely turn to Him."
+  },
+  {
+    "number": 35,
+    "arabic": "الشكور",
+    "transliteration": "Ash-Shakur",
+    "meaning": "The Appreciative",
+    "explanation": "The name indicating that Allah acknowledges and rewards even the smallest of good deeds done by His servants. He multiplies the reward generously for those who obey and worship Him."
+  },
+  {
+    "number": 36,
+    "arabic": "العلي",
+    "transliteration": "Al-'Ali",
+    "meaning": "The Most High",
+    "explanation": "The name indicating that Allah is exalted above all of creation in His essence, attributes, and rank. Nothing is above Him and He transcends all that exists."
+  },
+  {
+    "number": 37,
+    "arabic": "الكبير",
+    "transliteration": "Al-Kabir",
+    "meaning": "The Most Great",
+    "explanation": "The name indicating that Allah is great in the absolute sense, possessing greatness that no created being can ever equal. He is incomparably great in all aspects of His being."
+  },
+  {
+    "number": 38,
+    "arabic": "الحفيظ",
+    "transliteration": "Al-Hafiz",
+    "meaning": "The Preserver",
+    "explanation": "The name indicating that Allah preserves and protects all things in creation, keeping records of all deeds. He guards His servants from harm and maintains the universe in its order."
+  },
+  {
+    "number": 39,
+    "arabic": "المقيت",
+    "transliteration": "Al-Muqit",
+    "meaning": "The Nourisher",
+    "explanation": "The name indicating that Allah provides nourishment and sustenance to all living creatures. He maintains and oversees the provision of every being He has created."
+  },
+  {
+    "number": 40,
+    "arabic": "الحسيب",
+    "transliteration": "Al-Hasib",
+    "meaning": "The Reckoner",
+    "explanation": "The name indicating that Allah takes full account of all deeds and is sufficient as a reckoner. He is aware of every detail and will hold all people accountable on the Day of Judgment."
+  },
+  {
+    "number": 41,
+    "arabic": "الجليل",
+    "transliteration": "Al-Jalil",
+    "meaning": "The Majestic",
+    "explanation": "The name indicating that Allah possesses sublime majesty and magnificent splendor in His attributes. He is awe-inspiring in His greatness and worthy of the highest reverence."
+  },
+  {
+    "number": 42,
+    "arabic": "الكريم",
+    "transliteration": "Al-Karim",
+    "meaning": "The Most Generous",
+    "explanation": "The name indicating that Allah is noble and supremely generous, giving abundantly to His servants without measure. His generosity knows no bounds and is never diminished by giving."
+  },
+  {
+    "number": 43,
+    "arabic": "الرقيب",
+    "transliteration": "Ar-Raqib",
+    "meaning": "The Watchful",
+    "explanation": "The name indicating that Allah watches over all of creation at all times with complete awareness. Nothing escapes His watchful observation, not even the most private of deeds."
+  },
+  {
+    "number": 44,
+    "arabic": "المجيب",
+    "transliteration": "Al-Mujib",
+    "meaning": "The Responsive",
+    "explanation": "The name indicating that Allah responds to the supplications and prayers of those who call upon Him. He hears and answers every sincere prayer made to Him."
+  },
+  {
+    "number": 45,
+    "arabic": "الواسع",
+    "transliteration": "Al-Wasi'",
+    "meaning": "The All-Encompassing",
+    "explanation": "The name indicating that Allah's mercy, knowledge, and generosity are vast and all-encompassing. His attributes extend to cover all of creation without limitation or restriction."
+  },
+  {
+    "number": 46,
+    "arabic": "الحكيم",
+    "transliteration": "Al-Hakim",
+    "meaning": "The All-Wise",
+    "explanation": "The name indicating that Allah acts with perfect wisdom in all His decrees, commands, and creation. His wisdom ensures that everything He does is placed exactly where it should be."
+  },
+  {
+    "number": 47,
+    "arabic": "الودود",
+    "transliteration": "Al-Wadud",
+    "meaning": "The Loving",
+    "explanation": "The name indicating that Allah loves His righteous servants with a deep and pure love. He is the source of love and affection and He is beloved to the hearts of the faithful."
+  },
+  {
+    "number": 48,
+    "arabic": "المجيد",
+    "transliteration": "Al-Majid",
+    "meaning": "The Most Glorious",
+    "explanation": "The name indicating that Allah possesses the highest degree of glory and honor. He is noble and generous in His essence, combining both greatness and beautiful attributes."
+  },
+  {
+    "number": 49,
+    "arabic": "الباعث",
+    "transliteration": "Al-Ba'ith",
+    "meaning": "The Resurrector",
+    "explanation": "The name indicating that Allah resurrects the dead and raises up messengers to guide humanity. He will bring all creation back to life on the Day of Resurrection for final judgment."
+  },
+  {
+    "number": 50,
+    "arabic": "الشهيد",
+    "transliteration": "Ash-Shahid",
+    "meaning": "The Witness",
+    "explanation": "The name indicating that Allah is a witness to all things and bears testimony to everything that occurs. Nothing is hidden from Him and He is present as a witness to all deeds."
+  },
+  {
+    "number": 51,
+    "arabic": "الحق",
+    "transliteration": "Al-Haqq",
+    "meaning": "The Truth",
+    "explanation": "The name indicating that Allah is the ultimate truth whose existence is certain and necessary. All other existence depends on Him, and His words, promises, and decrees are truth."
+  },
+  {
+    "number": 52,
+    "arabic": "الوكيل",
+    "transliteration": "Al-Wakil",
+    "meaning": "The Trustee/Disposer of Affairs",
+    "explanation": "The name indicating that Allah is the trustworthy disposer of all affairs for those who place their trust in Him. He is the best guardian for those who rely on Him completely."
+  },
+  {
+    "number": 53,
+    "arabic": "القوي",
+    "transliteration": "Al-Qawi",
+    "meaning": "The All-Powerful",
+    "explanation": "The name indicating that Allah possesses absolute and unlimited strength and power. His power is perfect, never diminishing and never weakened by anything."
+  },
+  {
+    "number": 54,
+    "arabic": "المتين",
+    "transliteration": "Al-Matin",
+    "meaning": "The Firm/Steadfast",
+    "explanation": "The name indicating that Allah is firm and steadfast in His power, and His strength is unassailable. His decree and determination are impossible to resist or alter."
+  },
+  {
+    "number": 55,
+    "arabic": "الولي",
+    "transliteration": "Al-Wali",
+    "meaning": "The Protecting Friend",
+    "explanation": "The name indicating that Allah is the guardian and protecting ally of the believers, supporting and assisting them. He takes the righteous under His care and guidance."
+  },
+  {
+    "number": 56,
+    "arabic": "الحميد",
+    "transliteration": "Al-Hamid",
+    "meaning": "The Praiseworthy",
+    "explanation": "The name indicating that Allah is deserving of all praise and thanksgiving in every situation. He is praised for His attributes, His actions, and His decrees, whether people praise Him or not."
+  },
+  {
+    "number": 57,
+    "arabic": "المحصي",
+    "transliteration": "Al-Muhsi",
+    "meaning": "The Appraiser/Counter",
+    "explanation": "The name indicating that Allah counts and enumerates all things with perfect precision. He keeps an exact account of all deeds, atoms, and creations without missing anything."
+  },
+  {
+    "number": 58,
+    "arabic": "المبدئ",
+    "transliteration": "Al-Mubdi'",
+    "meaning": "The Originator/Initiator",
+    "explanation": "The name indicating that Allah initiates creation from the very beginning without any prior example or pattern. He brings things into being for the first time."
+  },
+  {
+    "number": 59,
+    "arabic": "المعيد",
+    "transliteration": "Al-Mu'id",
+    "meaning": "The Restorer",
+    "explanation": "The name indicating that Allah will restore and bring back creation after death and destruction. He will recreate everything on the Day of Resurrection just as He originated it."
+  },
+  {
+    "number": 60,
+    "arabic": "المحيي",
+    "transliteration": "Al-Muhyi",
+    "meaning": "The Giver of Life",
+    "explanation": "The name indicating that Allah is the one who grants life to all living beings. He breathes life into His creation and will give life again on the Day of Resurrection."
+  },
+  {
+    "number": 61,
+    "arabic": "المميت",
+    "transliteration": "Al-Mumit",
+    "meaning": "The Taker of Life",
+    "explanation": "The name indicating that Allah causes death to all living things according to His perfect will and wisdom. Death is entirely in His hands and comes at the appointed time He has decreed."
+  },
+  {
+    "number": 62,
+    "arabic": "الحي",
+    "transliteration": "Al-Hayy",
+    "meaning": "The Ever-Living",
+    "explanation": "The name indicating that Allah is eternally alive and never subject to death, sleep, or any diminishment. His life is perfect and absolute, unlike the temporary life of created beings."
+  },
+  {
+    "number": 63,
+    "arabic": "القيوم",
+    "transliteration": "Al-Qayyum",
+    "meaning": "The Self-Subsisting",
+    "explanation": "The name indicating that Allah is self-subsisting and sustains all of creation, depending on nothing while everything depends on Him. He is the one through whom all things exist and are maintained."
+  },
+  {
+    "number": 64,
+    "arabic": "الواجد",
+    "transliteration": "Al-Wajid",
+    "meaning": "The Finder/Perceiver",
+    "explanation": "The name indicating that Allah finds and perceives all things with ease and richness. He is never in want of anything and obtains whatever He wills without difficulty."
+  },
+  {
+    "number": 65,
+    "arabic": "الماجد",
+    "transliteration": "Al-Majid",
+    "meaning": "The Noble/Illustrious",
+    "explanation": "The name indicating that Allah is noble and illustrious in His essence and His generous treatment of creation. He is glorious in honor and magnificent in virtue."
+  },
+  {
+    "number": 66,
+    "arabic": "الواحد",
+    "transliteration": "Al-Wahid",
+    "meaning": "The One",
+    "explanation": "The name indicating that Allah is one without any partner, associate, or rival. His oneness encompasses His essence, attributes, and the exclusive right to be worshipped."
+  },
+  {
+    "number": 67,
+    "arabic": "الأحد",
+    "transliteration": "Al-Ahad",
+    "meaning": "The Unique/Only One",
+    "explanation": "The name indicating that Allah is uniquely and absolutely one in a way that has no parallel whatsoever. He is singular in His being and indivisible in His essence."
+  },
+  {
+    "number": 68,
+    "arabic": "الصمد",
+    "transliteration": "As-Samad",
+    "meaning": "The Eternal/Absolute",
+    "explanation": "The name indicating that Allah is the eternally besought, to whom all of creation turns in their needs. He is self-sufficient and independent while all others are in need of Him."
+  },
+  {
+    "number": 69,
+    "arabic": "القادر",
+    "transliteration": "Al-Qadir",
+    "meaning": "The Capable/Able",
+    "explanation": "The name indicating that Allah has the complete ability and capability to do all things. Nothing is beyond His power and He accomplishes all that He wills without effort."
+  },
+  {
+    "number": 70,
+    "arabic": "المقتدر",
+    "transliteration": "Al-Muqtadir",
+    "meaning": "The All-Determiner",
+    "explanation": "The name indicating that Allah has full and sovereign power over all things, executing His will with perfect authority. His power is supreme and nothing can resist it."
+  },
+  {
+    "number": 71,
+    "arabic": "المقدم",
+    "transliteration": "Al-Muqaddim",
+    "meaning": "The Expediter",
+    "explanation": "The name indicating that Allah brings forward and gives precedence to whomever and whatever He wills. He advances some in rank, status, and time according to His wisdom."
+  },
+  {
+    "number": 72,
+    "arabic": "المؤخر",
+    "transliteration": "Al-Mu'akhkhir",
+    "meaning": "The Delayer",
+    "explanation": "The name indicating that Allah delays and puts back whomever and whatever He wills according to His divine wisdom. He postpones punishment and postpones the end of things as He sees fit."
+  },
+  {
+    "number": 73,
+    "arabic": "الأول",
+    "transliteration": "Al-Awwal",
+    "meaning": "The First",
+    "explanation": "The name indicating that Allah is the First, before whom there is nothing. He has always existed and His existence has no beginning."
+  },
+  {
+    "number": 74,
+    "arabic": "الآخر",
+    "transliteration": "Al-Akhir",
+    "meaning": "The Last",
+    "explanation": "The name indicating that Allah is the Last, after whom there is nothing. He will remain after all of creation ceases to exist, for His existence has no end."
+  },
+  {
+    "number": 75,
+    "arabic": "الظاهر",
+    "transliteration": "Az-Zahir",
+    "meaning": "The Manifest/Apparent",
+    "explanation": "The name indicating that Allah is manifest and apparent through the signs of His existence and power throughout creation. He is above everything and His existence is evident."
+  },
+  {
+    "number": 76,
+    "arabic": "الباطن",
+    "transliteration": "Al-Batin",
+    "meaning": "The Hidden/Inner",
+    "explanation": "The name indicating that Allah is the innermost reality, hidden from perception and closer to creation than anything else. His essence cannot be grasped or perceived by the senses."
+  },
+  {
+    "number": 77,
+    "arabic": "الوالي",
+    "transliteration": "Al-Wali",
+    "meaning": "The Governor",
+    "explanation": "The name indicating that Allah governs and manages all of creation with perfect authority and control. He is the master and administrator over all affairs in the universe."
+  },
+  {
+    "number": 78,
+    "arabic": "المتعالي",
+    "transliteration": "Al-Muta'ali",
+    "meaning": "The Most Exalted",
+    "explanation": "The name indicating that Allah is supremely exalted above all of creation and transcends all limitations. He is far above any comparison, partner, or human conception."
+  },
+  {
+    "number": 79,
+    "arabic": "البر",
+    "transliteration": "Al-Barr",
+    "meaning": "The Source of All Goodness",
+    "explanation": "The name indicating that Allah is the source of all goodness and righteousness, treating His servants with perfect kindness. He is benevolent and generous in His treatment of creation."
+  },
+  {
+    "number": 80,
+    "arabic": "التواب",
+    "transliteration": "At-Tawwab",
+    "meaning": "The Acceptor of Repentance",
+    "explanation": "The name indicating that Allah continually turns toward His servants in forgiveness when they repent to Him. He accepts repentance repeatedly and loves those who turn back to Him."
+  },
+  {
+    "number": 81,
+    "arabic": "المنتقم",
+    "transliteration": "Al-Muntaqim",
+    "meaning": "The Avenger",
+    "explanation": "The name indicating that Allah takes vengeance on those who persist in sin and oppose His truth. His retribution is just and serves to uphold His divine order and justice."
+  },
+  {
+    "number": 82,
+    "arabic": "العفو",
+    "transliteration": "Al-'Afuw",
+    "meaning": "The Pardoner",
+    "explanation": "The name indicating that Allah completely erases sins as if they never occurred, going beyond forgiveness to total pardon. He wipes away sins without a trace for those who seek His pardon."
+  },
+  {
+    "number": 83,
+    "arabic": "الرؤوف",
+    "transliteration": "Ar-Ra'uf",
+    "meaning": "The Compassionate",
+    "explanation": "The name indicating that Allah has extreme tenderness and compassion toward His servants, especially the weak and vulnerable. His compassion drives Him to remove hardship and show gentleness."
+  },
+  {
+    "number": 84,
+    "arabic": "مالك الملك",
+    "transliteration": "Malik al-Mulk",
+    "meaning": "The Owner of All Sovereignty",
+    "explanation": "The name indicating that Allah is the sole and true owner of all dominion and sovereignty. He gives kingdom to whom He wills and takes it from whom He wills as the absolute master."
+  },
+  {
+    "number": 85,
+    "arabic": "ذو الجلال والإكرام",
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "meaning": "The Lord of Majesty and Bounty",
+    "explanation": "The name indicating that Allah possesses supreme majesty and is the source of all honor and nobility. He combines both the awe-inspiring quality of greatness and the beauty of generosity."
+  },
+  {
+    "number": 86,
+    "arabic": "المقسط",
+    "transliteration": "Al-Muqsit",
+    "meaning": "The Equitable",
+    "explanation": "The name indicating that Allah is perfectly equitable and just in all His dealings. He establishes equity and fairness and will ensure complete justice on the Day of Judgment."
+  },
+  {
+    "number": 87,
+    "arabic": "الجامع",
+    "transliteration": "Al-Jami'",
+    "meaning": "The Gatherer",
+    "explanation": "The name indicating that Allah gathers and brings together all of creation on the Day of Resurrection. He assembles all things according to His will and unites what He wills."
+  },
+  {
+    "number": 88,
+    "arabic": "الغني",
+    "transliteration": "Al-Ghani",
+    "meaning": "The Self-Sufficient/Rich",
+    "explanation": "The name indicating that Allah is absolutely self-sufficient and in no need of anything from His creation. He is independent and rich beyond all measure while all others are in need of Him."
+  },
+  {
+    "number": 89,
+    "arabic": "المغني",
+    "transliteration": "Al-Mughni",
+    "meaning": "The Enricher",
+    "explanation": "The name indicating that Allah enriches whom He wills and grants sufficiency to His servants. He is the one who removes poverty and want from creation by His grace and generosity."
+  },
+  {
+    "number": 90,
+    "arabic": "المانع",
+    "transliteration": "Al-Mani'",
+    "meaning": "The Withholder/Preventer",
+    "explanation": "The name indicating that Allah withholds and prevents as He wills, sometimes preventing harm and sometimes withholding provision according to His wisdom. His prevention is always purposeful."
+  },
+  {
+    "number": 91,
+    "arabic": "الضار",
+    "transliteration": "Ad-Darr",
+    "meaning": "The Distresser",
+    "explanation": "The name indicating that Allah can cause distress and adversity to whomever He wills as a means of testing, purification, or punishment. All harm that touches creation is by His permission."
+  },
+  {
+    "number": 92,
+    "arabic": "النافع",
+    "transliteration": "An-Nafi'",
+    "meaning": "The Benefactor",
+    "explanation": "The name indicating that Allah is the source of all benefit and that He bestows good upon whomever He wills. All beneficial things in creation come from His will and grace."
+  },
+  {
+    "number": 93,
+    "arabic": "النور",
+    "transliteration": "An-Nur",
+    "meaning": "The Light",
+    "explanation": "The name indicating that Allah is the light of the heavens and the earth, illuminating all of creation. He guides hearts out of darkness and His light is the source of all guidance."
+  },
+  {
+    "number": 94,
+    "arabic": "الهادي",
+    "transliteration": "Al-Hadi",
+    "meaning": "The Guide",
+    "explanation": "The name indicating that Allah guides whom He wills to the straight path and to success in this life and the next. He is the sole source of true guidance for all of creation."
+  },
+  {
+    "number": 95,
+    "arabic": "البديع",
+    "transliteration": "Al-Badi'",
+    "meaning": "The Incomparable Originator",
+    "explanation": "The name indicating that Allah creates things of incomparable beauty and originality without any prior model or example. His creation is unprecedented and without parallel."
+  },
+  {
+    "number": 96,
+    "arabic": "الباقي",
+    "transliteration": "Al-Baqi",
+    "meaning": "The Ever-Enduring",
+    "explanation": "The name indicating that Allah endures forever and is not subject to end, decay, or destruction. He outlasts all of creation and remains eternally after everything else ceases."
+  },
+  {
+    "number": 97,
+    "arabic": "الوارث",
+    "transliteration": "Al-Warith",
+    "meaning": "The Inheritor",
+    "explanation": "The name indicating that Allah is the inheritor of all things after the death of all creation. Everything ultimately returns to Him as the final and sole owner of all that exists."
+  },
+  {
+    "number": 98,
+    "arabic": "الرشيد",
+    "transliteration": "Ar-Rashid",
+    "meaning": "The Guide to the Right Path",
+    "explanation": "The name indicating that Allah directs and guides all affairs to their proper and right conclusions with perfect wisdom. His management of creation always leads to the correct outcome."
+  },
+  {
+    "number": 99,
+    "arabic": "الصبور",
+    "transliteration": "As-Sabur",
+    "meaning": "The Patient/Forbearing",
+    "explanation": "The name indicating that Allah is infinitely patient and does not hasten to punish those who sin and disobey Him. He gives ample time and opportunity for repentance before taking account."
+  }
+]

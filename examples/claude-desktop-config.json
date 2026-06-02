@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "azan": {
+      "command": "uvx",
+      "args": ["azan-mcp"],
+      "env": {
+        "AZAN_CONFIG": "/path/to/your/azan-config.json"
+      }
+    }
+  }
+}

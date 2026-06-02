@@ -1,0 +1,8 @@
+{
+  "latitude": 21.3891,
+  "longitude": 39.8579,
+  "timezone": "Asia/Riyadh",
+  "calculation_method": "umm_al_qura",
+  "madhab": "shafi",
+  "iqama_offsets": {"fajr": 20, "dhuhr": 10, "asr": 10, "maghrib": 5, "isha": 15}
+}
