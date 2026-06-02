@@ -1,0 +1,69 @@
+# Smithery configuration file: https://smithery.ai/docs/config#smitheryyaml
+
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required: []
+    properties:
+      latitude:
+        type: number
+        description: "Location latitude (-90 to 90). Defaults to Makkah (21.3891)."
+        default: 21.3891
+      longitude:
+        type: number
+        description: "Location longitude (-180 to 180). Defaults to Makkah (39.8579)."
+        default: 39.8579
+      timezone:
+        type: string
+        description: "IANA timezone string, e.g. Asia/Riyadh, Europe/London, America/New_York."
+        default: "Asia/Riyadh"
+      calculation_method:
+        type: string
+        description: "Prayer time calculation method. One of: umm_al_qura, mwl, isna, egypt, karachi, tehran, kuwait, uoif, ithna_ashari, muhammadiyah."
+        default: "mwl"
+        enum:
+          - umm_al_qura
+          - mwl
+          - isna
+          - egypt
+          - karachi
+          - tehran
+          - kuwait
+          - uoif
+          - ithna_ashari
+          - muhammadiyah
+      madhab:
+        type: string
+        description: "Madhab for Asr calculation. hanafi (shadow ratio 2x) or shafi (shadow ratio 1x)."
+        default: "shafi"
+        enum:
+          - hanafi
+          - shafi
+  commandFunction: |-
+    (config) => {
+      const configObj = {
+        latitude: config.latitude ?? 21.3891,
+        longitude: config.longitude ?? 39.8579,
+        timezone: config.timezone ?? "Asia/Riyadh",
+        calculation_method: config.calculation_method ?? "mwl",
+        madhab: config.madhab ?? "shafi",
+        iqama_offsets: { fajr: 20, dhuhr: 10, asr: 10, maghrib: 5, isha: 15 }
+      };
+      const fs = require('fs');
+      const os = require('os');
+      const path = require('path');
+      const configPath = path.join(os.tmpdir(), 'azan-mcp-config.json');
+      fs.writeFileSync(configPath, JSON.stringify(configObj));
+      return {
+        command: 'uvx',
+        args: ['azan-mcp'],
+        env: { AZAN_CONFIG: configPath }
+      };
+    }
+  exampleConfig:
+    latitude: 21.3891
+    longitude: 39.8579
+    timezone: "Asia/Riyadh"
+    calculation_method: "umm_al_qura"
+    madhab: "shafi"
